@@ -12,7 +12,7 @@ RX-Scanner adalah sebuah untuk program sederhana untuk menscan port 80,22,21,443
 
 3. Jalankan alat ini dengan perintah berikut:
 
-  ` rx_scanner.py`
+    ` rx_scanner.py`
   
 4. Ikuti petunjuk untuk memasukkan alamat IP atau nama host yang ingin discan.
 
