@@ -20,7 +20,7 @@ RX-Scanner adalah sebuah untuk program sederhana untuk menscan port 80,22,21,443
 
 ## Kendala
 
-kalau ingin berkontribusi dan ada masalah pada program ini, silakan pull issue atau silahkan fork program ini
+ketika ada masalah pada program ini, silakan pull issue atau kalau ingin mengembangkan lebih lanjut silahkan fork program ini
 
 Ruina
 
